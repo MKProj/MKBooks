@@ -1,12 +1,12 @@
 [Project]
 author = "Mustafif Khan"
-title = "C Basics"
-date = ""
-project_name = "CBasics"
-template = "Book" #Make sure to have first letter upercased
+title = "MKProject Books Plan"
+date = "Version 1.0"
+project_name = "Plan"
+template = "Basic" #Make sure to have first letter upercased
 
 [Document]
 paper_size = "letterpaper"
 font_size = 11 #font size number
 document_class = "article"
-packages = ["PhantomData", ""]
+packages = ["", ""]
